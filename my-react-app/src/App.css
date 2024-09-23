@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+body{
+  padding: 0;
+  margin: 0;
+  font-family: "Outfit", sans-serif;
+  background-color: darkslategray;
+  color: white;
+
+}
+.Header-h2{
+  font-weight: 100px;
+  font-size: bold;
+  display: flex;
+  align-self: center;
+  justify-content: space-between;
+  padding: 10px 20px;
+  margin: 2px auto;
+  
+
+}
+.Hero{
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem;
+  padding: 10px 20px;
+  margin: auto;
+  
+}
+@media screen and (min-width: 768px) {
+  
+}
+  
+
+  
+
+
+
+  
+  
+  
+  
+  
+ 
+
+ 
+ 
+
+
+
+
+
+  
+
+  
+
+  
+
+
+  
+  
+
+  
+  
+  
+
